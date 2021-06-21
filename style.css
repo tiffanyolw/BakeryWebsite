@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    border-bottom: 1px solid #e1e1e1;
+}
+
+#header {
+    background-image: url('./assets/header.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.container {
+    color: #990033;
+}
+
+.btn {
+    color: #990033;
+    border: 1px solid #990033;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #990033;
+}
+
+#footer {
+    background-color: #990033;
+}
+
+#footer .container {
+    color: #fff;
+}
